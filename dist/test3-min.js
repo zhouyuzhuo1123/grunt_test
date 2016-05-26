@@ -1,0 +1,1 @@
+!function(a,b){function c(a,b){return a-=55,a+b}c(10,100)}(window);
